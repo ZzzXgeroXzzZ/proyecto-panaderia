@@ -1,1 +1,4 @@
 Opciones de menu
+Comportamiento opciones:
+- Login: validar credenciales contra BD
+- Logout: limpiar sesión
